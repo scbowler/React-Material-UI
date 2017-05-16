@@ -1,4 +1,4 @@
-# React Starter
+# React Material UI Form Demo
 
 > This repo contains an example/demo of a Material-UI form being used in React with Redux-Form. The form contains two inputs, a slider, and check-boxes.
 >
